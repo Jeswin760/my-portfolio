@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Outfit:wght@100..900&display=swap');
+
+.footer{
+    margin-top:100px;
+}
+.v{
+   color:#ffffff;
+   font-size:50px;
+   padding:20px 40px;
+   font-family:"Major Mono Display";
+}
+.dot{
+    color:#990c09;
+}
+span{
+    color:#990C08;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:#212020;
+  color: #fff;
+  padding: 20px 40px;
+  font-family: 'Arial', sans-serif;
+}
+.nav ul {
+  list-style: none;
+  margin-right: 420px;
+  padding: 0;
+}
+.nav ul li {
+  display: flex;
+  gap: 80px;
+}
+.nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  transition: color 0.3s ease;
+  font-family:"Maname";
+  font-size:25px;
+  margin-left:50px;
+  margin-top:24px;
+}
+.nav ul li a:hover {
+  color: gray;  
+}

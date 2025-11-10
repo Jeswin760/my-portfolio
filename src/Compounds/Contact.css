@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Outfit:wght@100..900&display=swap');
+
+.Contact{
+    color:#ffffff;
+    font-family:"maname";
+    font-size:50px;
+    text-align:center;
+    margin-top:50px;
+    word-spacing:5px;
+}
+.us{
+    color:#990C08;
+    text-decoration-line: underline;
+    text-decoration-color:#990C08;
+}
+.quote{
+    color:#ffffff;
+    font-family:"maname";
+    font-size:25px;
+    margin-top:20px;
+    text-align:center;
+}
+.contact-form {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #222;
+  border-radius: 0px;
+  box-shadow: 0 0 10px rgba(153, 12, 8, 0.3);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top:50px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #990C08;
+  border-radius: 8px;
+  background: #fff;
+  color: #000;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #e63946;
+}
+
+.contact-form button {
+  padding: 12px;
+  background-color: #990C08;
+  color: #ffffff;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.message{
+  font-size:15px;
+  font-family:"maname";
+  font-weight:bold;
+}

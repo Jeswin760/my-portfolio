@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Outfit:wght@100..900&display=swap');
+.my{
+    font-family:"Maname";
+    font-size:50px;
+    color:white;
+    text-align:center;
+    letter-spacing: 2px;
+}
+.lan{
+    text-decoration-line:underline;
+    text-decoration-color:#990C03;
+}
+.iconname{
+    margin-top:60px;
+}
+.iconnames{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 128px;
+    font-family:"Dongle";
+    color:white;
+    margin-left:156px;
+    margin-top:20px;
+    font-size:20px;
+}
+.iconname1{
+    margin-top:80px;
+}
+.iconnames1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    font-family:"Dongle";
+    color:white;
+    padding-left:55px;
+    margin-left:106px;
+    margin-top:20px;
+    font-size:20px;
+}
+.ht{
+    margin-left:15px;
+}

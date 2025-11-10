@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Outfit:wght@100..900&display=swap');
+.about{
+    font-family:"maname";
+    font-size:50px;
+    color:#ffffff;
+    text-align:center;
+    margin-top:100px;
+    text-decoration-line:underline;
+    text-decoration-color: #990c03;
+    letter-spacing: 2px;
+}
+.me{
+    color:#990c03;
+}
+.short{
+    color:#ffffff;
+    font-family:"maname";
+    font-size:35px;
+    margin-left:40px;
+    margin-top:50px;
+}
+.short-intro{
+    color:#990c03;
+}
+.para{
+    color:#ffffff;
+    font-family:"maname";
+    font-size:25px;
+    margin-left:40px;
+    margin-top:10px;
+    word-spacing: 4px;
+}
+.full{
+    color:#990c03;
+    font-weight: bold;
+}
+.My{
+    color:#ffffff;
+    font-family:"maname";
+    font-size:35px;
+    margin-left:40px;
+    margin-top:40px;
+}
+.skill{
+    color:#990c03;
+}
+.tech{
+    font-family:"maname";
+    font-size:25px;
+    color:#ffffff;
+    margin-left:40px;
+    margin-top:10px;
+}
+.soft{
+    font-family:"maname";
+    font-size:25px;
+    color:#ffffff;
+    margin-left: 40px;
+    margin-top:10px;
+}

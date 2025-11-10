@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Outfit:wght@100..900&display=swap');
+
+.intro{
+    position: relative;
+    left:40px;
+    top:140px;
+    color:white;
+    font-family:"maname";
+    font-size:20px;
+    display:flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.image-sec{
+    background-color:#990C09;
+    width:405px;
+    height:500px;
+    margin-left:420px;
+    margin-top:-320px;
+    border-radius:20% 50% 20% 50%;
+    box-sizing: 15px;
+}
+.intro-box {
+  border: 2px solid #990c03;
+  padding: 10px 20px;
+  width: fit-content;
+  border-radius: 2px 18px 2px 18px;
+  font-size: 28px;
+}
+
+.name {
+  font-size: 38px;
+  font-weight: bold;
+  line-height: 1.2;
+  font-family:"Maname";
+  white-space: pre-line;
+  margin-top:20px;
+}
+
+.highlight {
+  display: inline-block;
+  border-bottom: 3px solid #990c03;
+  margin-left: 60px;
+}
+
+.contact-button {
+  background: transparent;
+  color: #fff;
+  border: 2px solid #990c03;
+  padding: 5px 20px;
+  width:250px;
+  height:50px;
+  font-weight: bold;
+  font-size: 30px;
+  font-family:"maname";
+  border-radius: 18px 2px 18px 2px;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin-top:15px;
+}
+
+.contact-button:hover {
+  background-color: #990c03;
+  color: #fff;
+}
+.social{
+    font-size:30px;
+    font-family:"maname";
+    margin-top:20px;
+}
+.icon1{
+    margin-left:100px;
+}
+.aside{
+    position:absolute;
+    left:850px;
+    bottom:30px;
+    color:#990c03;
+}
+.f-text{
+    margin-top: 100px;
+}
+.we{
+    color:#ffffff;
+}
+.p-text{
+    font-size:25px;
+    font-family:"Maname";
+    color:#ffffff;
+    margin-top:20px;
+}
+.same{
+    font-family:"Lato";
+    font-size:25px;
+    color:#990c03;
+    font-weight:bold;
+    margin-top:10px;
+    cursor: pointer;
+}
